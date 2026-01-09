@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A1200001"
+               BlueprintIdentifier = "40001"
                BuildableName = "FuriLens.app"
                BlueprintName = "FuriLens"
                ReferencedContainer = "container:FuriLens.xcodeproj">
@@ -34,7 +34,7 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A1200002"
+               BlueprintIdentifier = "40002"
                BuildableName = "FuriLensTests.xctest"
                BlueprintName = "FuriLensTests"
                ReferencedContainer = "container:FuriLens.xcodeproj">
@@ -56,7 +56,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A1200001"
+            BlueprintIdentifier = "40001"
             BuildableName = "FuriLens.app"
             BlueprintName = "FuriLens"
             ReferencedContainer = "container:FuriLens.xcodeproj">
@@ -73,7 +73,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A1200001"
+            BlueprintIdentifier = "40001"
             BuildableName = "FuriLens.app"
             BlueprintName = "FuriLens"
             ReferencedContainer = "container:FuriLens.xcodeproj">

@@ -7,63 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A1000001 /* FuriLensApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100001 /* FuriLensApp.swift */; };
-		A1000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100002 /* ContentView.swift */; };
-		A1000003 /* TextOrientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100003 /* TextOrientation.swift */; };
-		A1000004 /* DetectedTextBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100004 /* DetectedTextBox.swift */; };
-		A1000005 /* FuriganaOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100005 /* FuriganaOverlay.swift */; };
-		A1000006 /* FuriganaService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100006 /* FuriganaService.swift */; };
-		A1000007 /* CameraManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100007 /* CameraManager.swift */; };
-		A1000008 /* TextRecognitionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100008 /* TextRecognitionService.swift */; };
-		A1000009 /* CameraViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100009 /* CameraViewModel.swift */; };
-		A1000010 /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100010 /* CameraPreviewView.swift */; };
-		A1000011 /* FuriganaOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100011 /* FuriganaOverlayView.swift */; };
-		A1000012 /* OrientationControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100012 /* OrientationControlView.swift */; };
-		A1000013 /* CoordinateMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100013 /* CoordinateMapper.swift */; };
-		A1000014 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1100015 /* Assets.xcassets */; };
-		A1000020 /* FuriganaServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1100020 /* FuriganaServiceTests.swift */; };
+		10001 /* FuriLensApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20001 /* FuriLensApp.swift */; };
+		10002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20002 /* ContentView.swift */; };
+		10003 /* TextOrientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20003 /* TextOrientation.swift */; };
+		10004 /* DetectedTextBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20004 /* DetectedTextBox.swift */; };
+		10005 /* FuriganaOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20005 /* FuriganaOverlay.swift */; };
+		10006 /* FuriganaService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20006 /* FuriganaService.swift */; };
+		10007 /* CameraManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20007 /* CameraManager.swift */; };
+		10008 /* TextRecognitionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20008 /* TextRecognitionService.swift */; };
+		10009 /* CameraViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20009 /* CameraViewModel.swift */; };
+		10010 /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20010 /* CameraPreviewView.swift */; };
+		10011 /* FuriganaOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20011 /* FuriganaOverlayView.swift */; };
+		10012 /* OrientationControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20012 /* OrientationControlView.swift */; };
+		10013 /* CoordinateMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20013 /* CoordinateMapper.swift */; };
+		10014 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20014 /* Assets.xcassets */; };
+		10020 /* FuriganaServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20020 /* FuriganaServiceTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A1300001 /* PBXContainerItemProxy */ = {
+		30001 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A1500001 /* Project object */;
+			containerPortal = 50001 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A1200001;
+			remoteGlobalIDString = 40001;
 			remoteInfo = FuriLens;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A1100001 /* FuriLensApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriLensApp.swift; sourceTree = "<group>"; };
-		A1100002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A1100003 /* TextOrientation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextOrientation.swift; sourceTree = "<group>"; };
-		A1100004 /* DetectedTextBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedTextBox.swift; sourceTree = "<group>"; };
-		A1100005 /* FuriganaOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaOverlay.swift; sourceTree = "<group>"; };
-		A1100006 /* FuriganaService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaService.swift; sourceTree = "<group>"; };
-		A1100007 /* CameraManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraManager.swift; sourceTree = "<group>"; };
-		A1100008 /* TextRecognitionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognitionService.swift; sourceTree = "<group>"; };
-		A1100009 /* CameraViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewModel.swift; sourceTree = "<group>"; };
-		A1100010 /* CameraPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
-		A1100011 /* FuriganaOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaOverlayView.swift; sourceTree = "<group>"; };
-		A1100012 /* OrientationControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrientationControlView.swift; sourceTree = "<group>"; };
-		A1100013 /* CoordinateMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateMapper.swift; sourceTree = "<group>"; };
-		A1100014 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A1100015 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A1100020 /* FuriganaServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaServiceTests.swift; sourceTree = "<group>"; };
-		A1200001 /* FuriLens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FuriLens.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1200002 /* FuriLensTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FuriLensTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		20001 /* FuriLensApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriLensApp.swift; sourceTree = "<group>"; };
+		20002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		20003 /* TextOrientation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextOrientation.swift; sourceTree = "<group>"; };
+		20004 /* DetectedTextBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedTextBox.swift; sourceTree = "<group>"; };
+		20005 /* FuriganaOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaOverlay.swift; sourceTree = "<group>"; };
+		20006 /* FuriganaService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaService.swift; sourceTree = "<group>"; };
+		20007 /* CameraManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraManager.swift; sourceTree = "<group>"; };
+		20008 /* TextRecognitionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognitionService.swift; sourceTree = "<group>"; };
+		20009 /* CameraViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewModel.swift; sourceTree = "<group>"; };
+		20010 /* CameraPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
+		20011 /* FuriganaOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaOverlayView.swift; sourceTree = "<group>"; };
+		20012 /* OrientationControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrientationControlView.swift; sourceTree = "<group>"; };
+		20013 /* CoordinateMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateMapper.swift; sourceTree = "<group>"; };
+		20014 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		20015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20020 /* FuriganaServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuriganaServiceTests.swift; sourceTree = "<group>"; };
+		40001 /* FuriLens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FuriLens.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		40002 /* FuriLensTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FuriLensTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A1400001 /* Frameworks */ = {
+		41001 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A1400002 /* Frameworks */ = {
+		41002 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -73,98 +73,98 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A1600001 = {
+		60001 = {
 			isa = PBXGroup;
 			children = (
-				A1600002 /* FuriLens */,
-				A1600020 /* FuriLensTests */,
-				A1600003 /* Products */,
+				60002 /* FuriLens */,
+				60020 /* FuriLensTests */,
+				60003 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A1600002 /* FuriLens */ = {
+		60002 /* FuriLens */ = {
 			isa = PBXGroup;
 			children = (
-				A1600004 /* App */,
-				A1600005 /* Models */,
-				A1600006 /* Services */,
-				A1600007 /* ViewModels */,
-				A1600008 /* Views */,
-				A1600009 /* Utilities */,
-				A1100015 /* Assets.xcassets */,
-				A1100014 /* Info.plist */,
+				60004 /* App */,
+				60005 /* Models */,
+				60006 /* Services */,
+				60007 /* ViewModels */,
+				60008 /* Views */,
+				60009 /* Utilities */,
+				20014 /* Assets.xcassets */,
+				20015 /* Info.plist */,
 			);
 			path = FuriLens;
 			sourceTree = "<group>";
 		};
-		A1600003 /* Products */ = {
+		60003 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1200001 /* FuriLens.app */,
-				A1200002 /* FuriLensTests.xctest */,
+				40001 /* FuriLens.app */,
+				40002 /* FuriLensTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A1600004 /* App */ = {
+		60004 /* App */ = {
 			isa = PBXGroup;
 			children = (
-				A1100001 /* FuriLensApp.swift */,
+				20001 /* FuriLensApp.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
 		};
-		A1600005 /* Models */ = {
+		60005 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				A1100003 /* TextOrientation.swift */,
-				A1100004 /* DetectedTextBox.swift */,
-				A1100005 /* FuriganaOverlay.swift */,
+				20003 /* TextOrientation.swift */,
+				20004 /* DetectedTextBox.swift */,
+				20005 /* FuriganaOverlay.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		A1600006 /* Services */ = {
+		60006 /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				A1100006 /* FuriganaService.swift */,
-				A1100007 /* CameraManager.swift */,
-				A1100008 /* TextRecognitionService.swift */,
+				20006 /* FuriganaService.swift */,
+				20007 /* CameraManager.swift */,
+				20008 /* TextRecognitionService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
 		};
-		A1600007 /* ViewModels */ = {
+		60007 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				A1100009 /* CameraViewModel.swift */,
+				20009 /* CameraViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
 		};
-		A1600008 /* Views */ = {
+		60008 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				A1100002 /* ContentView.swift */,
-				A1100010 /* CameraPreviewView.swift */,
-				A1100011 /* FuriganaOverlayView.swift */,
-				A1100012 /* OrientationControlView.swift */,
+				20002 /* ContentView.swift */,
+				20010 /* CameraPreviewView.swift */,
+				20011 /* FuriganaOverlayView.swift */,
+				20012 /* OrientationControlView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		A1600009 /* Utilities */ = {
+		60009 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				A1100013 /* CoordinateMapper.swift */,
+				20013 /* CoordinateMapper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
 		};
-		A1600020 /* FuriLensTests */ = {
+		60020 /* FuriLensTests */ = {
 			isa = PBXGroup;
 			children = (
-				A1100020 /* FuriganaServiceTests.swift */,
+				20020 /* FuriganaServiceTests.swift */,
 			);
 			path = FuriLensTests;
 			sourceTree = "<group>";
@@ -172,13 +172,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1200001 /* FuriLens */ = {
+		40001 /* FuriLens */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1700001 /* Build configuration list for PBXNativeTarget "FuriLens" */;
+			buildConfigurationList = 70001 /* Build configuration list for PBXNativeTarget "FuriLens" */;
 			buildPhases = (
-				A1800001 /* Sources */,
-				A1400001 /* Frameworks */,
-				A1900001 /* Resources */,
+				42001 /* Sources */,
+				41001 /* Frameworks */,
+				43001 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -186,46 +186,46 @@
 			);
 			name = FuriLens;
 			productName = FuriLens;
-			productReference = A1200001 /* FuriLens.app */;
+			productReference = 40001 /* FuriLens.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A1200002 /* FuriLensTests */ = {
+		40002 /* FuriLensTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1700002 /* Build configuration list for PBXNativeTarget "FuriLensTests" */;
+			buildConfigurationList = 70002 /* Build configuration list for PBXNativeTarget "FuriLensTests" */;
 			buildPhases = (
-				A1800002 /* Sources */,
-				A1400002 /* Frameworks */,
+				42002 /* Sources */,
+				41002 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A1300002 /* PBXTargetDependency */,
+				30002 /* PBXTargetDependency */,
 			);
 			name = FuriLensTests;
 			productName = FuriLensTests;
-			productReference = A1200002 /* FuriLensTests.xctest */;
+			productReference = 40002 /* FuriLensTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A1500001 /* Project object */ = {
+		50001 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					A1200001 = {
+					40001 = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					A1200002 = {
+					40002 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = A1200001;
+						TestTargetID = 40001;
 					};
 				};
 			};
-			buildConfigurationList = A1700003 /* Build configuration list for PBXProject "FuriLens" */;
+			buildConfigurationList = 70003 /* Build configuration list for PBXProject "FuriLens" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -233,69 +233,69 @@
 				en,
 				Base,
 			);
-			mainGroup = A1600001;
-			productRefGroup = A1600003 /* Products */;
+			mainGroup = 60001;
+			productRefGroup = 60003 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1200001 /* FuriLens */,
-				A1200002 /* FuriLensTests */,
+				40001 /* FuriLens */,
+				40002 /* FuriLensTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A1900001 /* Resources */ = {
+		43001 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1000014 /* Assets.xcassets in Resources */,
+				10014 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A1800001 /* Sources */ = {
+		42001 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1000001 /* FuriLensApp.swift in Sources */,
-				A1000002 /* ContentView.swift in Sources */,
-				A1000003 /* TextOrientation.swift in Sources */,
-				A1000004 /* DetectedTextBox.swift in Sources */,
-				A1000005 /* FuriganaOverlay.swift in Sources */,
-				A1000006 /* FuriganaService.swift in Sources */,
-				A1000007 /* CameraManager.swift in Sources */,
-				A1000008 /* TextRecognitionService.swift in Sources */,
-				A1000009 /* CameraViewModel.swift in Sources */,
-				A1000010 /* CameraPreviewView.swift in Sources */,
-				A1000011 /* FuriganaOverlayView.swift in Sources */,
-				A1000012 /* OrientationControlView.swift in Sources */,
-				A1000013 /* CoordinateMapper.swift in Sources */,
+				10001 /* FuriLensApp.swift in Sources */,
+				10002 /* ContentView.swift in Sources */,
+				10003 /* TextOrientation.swift in Sources */,
+				10004 /* DetectedTextBox.swift in Sources */,
+				10005 /* FuriganaOverlay.swift in Sources */,
+				10006 /* FuriganaService.swift in Sources */,
+				10007 /* CameraManager.swift in Sources */,
+				10008 /* TextRecognitionService.swift in Sources */,
+				10009 /* CameraViewModel.swift in Sources */,
+				10010 /* CameraPreviewView.swift in Sources */,
+				10011 /* FuriganaOverlayView.swift in Sources */,
+				10012 /* OrientationControlView.swift in Sources */,
+				10013 /* CoordinateMapper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A1800002 /* Sources */ = {
+		42002 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1000020 /* FuriganaServiceTests.swift in Sources */,
+				10020 /* FuriganaServiceTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A1300002 /* PBXTargetDependency */ = {
+		30002 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A1200001 /* FuriLens */;
-			targetProxy = A1300001 /* PBXContainerItemProxy */;
+			target = 40001 /* FuriLens */;
+			targetProxy = 30001 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		A2000001 /* Debug */ = {
+		80001 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		A2000002 /* Release */ = {
+		80002 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,7 +414,7 @@
 			};
 			name = Release;
 		};
-		A2000003 /* Debug */ = {
+		80003 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -445,7 +445,7 @@
 			};
 			name = Debug;
 		};
-		A2000004 /* Release */ = {
+		80004 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -476,7 +476,7 @@
 			};
 			name = Release;
 		};
-		A2000005 /* Debug */ = {
+		80005 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -495,7 +495,7 @@
 			};
 			name = Debug;
 		};
-		A2000006 /* Release */ = {
+		80006 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -517,34 +517,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1700001 /* Build configuration list for PBXNativeTarget "FuriLens" */ = {
+		70001 /* Build configuration list for PBXNativeTarget "FuriLens" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A2000003 /* Debug */,
-				A2000004 /* Release */,
+				80003 /* Debug */,
+				80004 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1700002 /* Build configuration list for PBXNativeTarget "FuriLensTests" */ = {
+		70002 /* Build configuration list for PBXNativeTarget "FuriLensTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A2000005 /* Debug */,
-				A2000006 /* Release */,
+				80005 /* Debug */,
+				80006 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1700003 /* Build configuration list for PBXProject "FuriLens" */ = {
+		70003 /* Build configuration list for PBXProject "FuriLens" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A2000001 /* Debug */,
-				A2000002 /* Release */,
+				80001 /* Debug */,
+				80002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A1500001 /* Project object */;
+	rootObject = 50001 /* Project object */;
 }
