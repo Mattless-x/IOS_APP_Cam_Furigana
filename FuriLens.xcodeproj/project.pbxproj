@@ -176,8 +176,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A1700001 /* Build configuration list for PBXNativeTarget "FuriLens" */;
 			buildPhases = (
-				A1400001 /* Frameworks */,
 				A1800001 /* Sources */,
+				A1400001 /* Frameworks */,
 				A1900001 /* Resources */,
 			);
 			buildRules = (
@@ -193,8 +193,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A1700002 /* Build configuration list for PBXNativeTarget "FuriLensTests" */;
 			buildPhases = (
-				A1400002 /* Frameworks */,
 				A1800002 /* Sources */,
+				A1400002 /* Frameworks */,
 			);
 			buildRules = (
 			);
